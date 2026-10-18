@@ -5,3 +5,29 @@ cmake-build-*/
 # OS
 .DS_Store
 Thumbs.db
+# Local IDE state and generated build files
+.vs/
+*.user
+*.suo
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+*.exp
+*.exe
+*.dll
+*.asi
+.env
+.env.*
+*.pem
+*.key
